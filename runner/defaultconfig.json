@@ -1,0 +1,12 @@
+{
+	"minEdgeNodes": 1,
+	"maxEdgeNodes": 1,
+	"edgeNodeStep": 1,
+	"minFogNodes": 250,
+	"maxFogNodes": 250,
+	"fogNodeStep": 50,
+	"iterations": 10,
+	"monitorPeriod": 10,
+	"monitorLoops": 10,
+	"ethInterface": ""
+}

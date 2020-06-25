@@ -1,0 +1,1 @@
+{"port":8181,"orchestrator":"fledge","nodeID":"randomnode","resourceLimitsPct":80,"initialNodes":{"node1":"192.168.1.100","node2":"192.168.1.101"},"pingPeriod":60,"maxPing":100,"fledgeAPIPort":12345,"edgePort":8182,"edgeTryMigrateURL":"tryMigrate","edgeMigrateURL":"migrate","edgeCancelMigrateURL":"cancelMigrate"}
